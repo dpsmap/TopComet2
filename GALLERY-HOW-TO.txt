@@ -1,0 +1,18 @@
+GALLERY — EDIT EACH PHOTO INDIVIDUALLY
+
+All website text is English only.
+
+1. Copy your real photo into the images/ folder.
+   Example: images/office-photo.jpg
+2. Open gallery-data.js in VS Code.
+3. Replace ANY existing image entry with your own:
+   { file: "images/office-photo.jpg", caption: "Our Office" },
+4. For more photos, add a new entry before the closing ];
+   { file: "images/team-photo.png", caption: "Our Team" },
+5. To delete an illustration, remove its entry.
+6. To change image order, rearrange the entries.
+7. Save and refresh gallery.html.
+
+NOTE: Images use local file paths (not internet links).
+Every illustration has a different design and is NOT a real company photo.
+Publish real photos only with permission.

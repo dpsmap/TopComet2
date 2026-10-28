@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Document Guidance illustration">
+<rect width="800" height="600" fill="#fff4e8"/><circle cx="690" cy="80" r="160" fill="#c76b23" opacity=".07"/><circle cx="120" cy="530" r="120" fill="#c76b23" opacity=".08"/>
+<rect x="270" y="148" width="275" height="355" rx="22" fill="#c76b23"/><rect x="300" y="208" width="210" height="22" rx="11" fill="white"/><rect x="300" y="260" width="165" height="16" rx="8" fill="white" opacity=".8"/><rect x="300" y="300" width="195" height="16" rx="8" fill="white" opacity=".8"/><circle cx="405" cy="406" r="48" fill="white" opacity=".9"/><path d="M385 407l16 16 31-38" fill="none" stroke="#c76b23" stroke-width="12" stroke-linecap="round"/>
+<rect x="0" y="535" width="800" height="65" fill="white" opacity=".88"/>
+<text x="400" y="577" text-anchor="middle" fill="#c76b23" font-size="30" font-family="Arial,sans-serif" font-weight="bold">Document Guidance</text>
+</svg>

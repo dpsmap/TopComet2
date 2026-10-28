@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Travel Preparation illustration">
+<rect width="800" height="600" fill="#e9f8f4"/><circle cx="690" cy="80" r="160" fill="#15816f" opacity=".07"/><circle cx="120" cy="530" r="120" fill="#15816f" opacity=".08"/>
+<path d="M175 335 L595 208 Q626 200 614 233 L489 318 L523 451 L473 469 L397 373 L282 435 L249 414 L347 339 L195 368 Z" fill="#15816f"/><circle cx="536" cy="188" r="22" fill="#15816f" opacity=".25"/>
+<rect x="0" y="535" width="800" height="65" fill="white" opacity=".88"/>
+<text x="400" y="577" text-anchor="middle" fill="#15816f" font-size="30" font-family="Arial,sans-serif" font-weight="bold">Travel Preparation</text>
+</svg>

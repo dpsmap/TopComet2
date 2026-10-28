@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Career Planning illustration">
+<rect width="800" height="600" fill="#e6f1ff"/><circle cx="690" cy="80" r="160" fill="#1760b6" opacity=".07"/><circle cx="120" cy="530" r="120" fill="#1760b6" opacity=".08"/>
+<rect x="240" y="230" width="320" height="225" rx="26" fill="#1760b6" opacity=".95"/><rect x="345" y="185" width="110" height="60" rx="12" fill="none" stroke="#1760b6" stroke-width="22"/><rect x="250" y="285" width="300" height="30" fill="white" opacity=".24"/><path d="M375 318h50v40h-50z" fill="white"/>
+<rect x="0" y="535" width="800" height="65" fill="white" opacity=".88"/>
+<text x="400" y="577" text-anchor="middle" fill="#1760b6" font-size="30" font-family="Arial,sans-serif" font-weight="bold">Career Planning</text>
+</svg>

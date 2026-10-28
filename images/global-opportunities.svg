@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Global Opportunities illustration">
+<rect width="800" height="600" fill="#f0edff"/><circle cx="690" cy="80" r="160" fill="#6355b5" opacity=".07"/><circle cx="120" cy="530" r="120" fill="#6355b5" opacity=".08"/>
+<circle cx="400" cy="332" r="175" fill="#6355b5"/><circle cx="400" cy="332" r="144" fill="none" stroke="white" stroke-width="8" opacity=".8"/><ellipse cx="400" cy="332" rx="72" ry="175" fill="none" stroke="white" stroke-width="8" opacity=".8"/><path d="M230 332h340 M255 264h290 M255 400h290" stroke="white" stroke-width="8" opacity=".8"/>
+<rect x="0" y="535" width="800" height="65" fill="white" opacity=".88"/>
+<text x="400" y="577" text-anchor="middle" fill="#6355b5" font-size="30" font-family="Arial,sans-serif" font-weight="bold">Global Opportunities</text>
+</svg>
